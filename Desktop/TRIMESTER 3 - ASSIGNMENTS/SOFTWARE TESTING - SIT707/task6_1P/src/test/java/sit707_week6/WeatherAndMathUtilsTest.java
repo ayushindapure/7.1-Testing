@@ -7,13 +7,13 @@ public class WeatherAndMathUtilsTest {
 
     @Test
     public void testStudentIdentity() {
-        String studentId = "223456789"; // Replace with your actual student ID
+        String studentId = "224880003"; 
         Assert.assertNotNull("Student ID is null", studentId);
     }
 
     @Test
     public void testStudentName() {
-        String studentName = "John Smith"; // Replace with your actual name
+        String studentName = "Ayush Indapure"; 
         Assert.assertNotNull("Student name is null", studentName);
     }
 
